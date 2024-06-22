@@ -18,3 +18,5 @@
 
 - **3D Rendering:** Demonstrates basic 3D rendering techniques using OpenGL.
 - **OpenGL Integration:** Utilizes OpenGL for graphics rendering in C++.
+![image](https://github.com/khaled71612000/OpenGl-Cube/assets/59780800/5f7de3f5-a541-46c8-85db-5896d9ba21b7)
+![image](https://github.com/khaled71612000/OpenGl-Cube/assets/59780800/a701ea0b-088c-4b87-aa65-de373e639af3)
